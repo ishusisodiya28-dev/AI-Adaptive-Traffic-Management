@@ -1,0 +1,6 @@
+Metric,Fixed-Time,Adaptive V2,PPO
+Speed (m/s),5.46,5.89,6.02
+Duration (s),129.49,119.02,122.4
+Waiting Time (s),48.16,42.54,47.9
+Time Loss (s),84.41,73.96,77.33
+Depart Delay (s),74.32,75.9,72.86
